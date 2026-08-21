@@ -18,9 +18,22 @@ A small Active Directory homelab designed to simulate a real-world Windows domai
 
 <h2>Program walk-through:</h2>
 
+
 <p align="center">
-changing user password with Active Directory: <br/>
-<img src=[(https://imgur.com/tvRP6Vj)
+Changing user password with Active Directory: <br/>
+<img src="https://i.imgur.com/tvRP6Vj.png"  
+
+
+<p align="center">
+Going to user "Shannon Horton" and assigning new temporary password: <br/>
+<img src="https://i.imgur.com/7dcmMaA.png"
+
+
+<p align="center">
+Password Successfully reset for user: <br/>
+<img src=https://i.imgur.com/S0na0Pe.png
+
+
 
 
 <!--
